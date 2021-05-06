@@ -8,7 +8,7 @@
 
 ## Disclaimer
 
-Não possuo direito sobre os modelos e imagens utilizadas, todos os recursos utilizados e a aplicação são para fins educaionais.
+Não possuo direito sobre os modelos e imagens utilizadas, todos os recursos utilizados e a aplicação são para fins educacionais.
 © 2020 Pokémon. © 1995–2020 Nintendo/Creatures Inc./GAME FREAK inc. Pokémon, os nomes dos personagens Pokémon, Nintendo Switch, Nintendo 3DS, Nintendo DS, Wii, Wii U e WiiWare são marcas da Nintendo.
 Demais marcas são propriedade de seus respectivos donos.
 
