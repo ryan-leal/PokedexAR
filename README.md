@@ -7,13 +7,13 @@ Repository of the application corresponding to the final project of the discipli
  ![Rotating Pokemon](gifs/gif3.gif)
 
 
-Usando Unity + Vuforia Engine, criei uma aplicação que exibe modelos de alguns pokémon e exibe uma áudio descrição dos mesmos.
+### Usando Unity + Vuforia Engine, criei uma aplicação que exibe modelos de alguns pokémon e exibe uma áudio descrição dos mesmos.
 
 Using Unity + Vuforia Engine, I created an application that displays models of some pokémon and displays an audio description of them.
 
 ![Pokemon Appeared](gifs/gif2.gif)
 
-Para usar é necessário que o dispositivo Android possua o recurso de Giroscópio
+### Para usar é necessário que o dispositivo Android possua o recurso de Giroscópio
 
 To use it is necessary that the Android device has the Gyroscope feature
 
