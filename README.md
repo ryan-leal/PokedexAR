@@ -2,9 +2,8 @@
 
 ### Repositório feito para a aplicação correspondente ao projeto final da disciplina de Tópicos Especiais em Computação - Introdução à RA, da Universidade Federal da Paraíba.
 
-<p align="center">
-  ![Rotating Pokemon](gifs/gif3.gif)
-</p>
+ ![Rotating Pokemon](gifs/gif3.gif)
+
 
 ### Usando Unity + Vuforia Engine, criei uma aplicação que exibe modelos de alguns pokémon e exibe uma áudio descrição dos mesmos.
 
