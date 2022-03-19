@@ -1,18 +1,20 @@
 # Repository of the application corresponding to the final project of the discipline of Special Topics in Computing - Introduction to AR at the Federal University of Paraíba.
 
-![](gifs/gif1)
-![](gifs/gif2.gif)
-![](gifs/gif3.gif)
-
 ### Repositório feito para a aplicação correspondente ao projeto final da disciplina de Tópicos Especiais em Computação - Introdução à RA, da Universidade Federal da Paraíba.
+
+![Rotating Pokemon](gifs/gif3.gif)
 
 ### Usando Unity + Vuforia Engine, criei uma aplicação que exibe modelos de alguns pokémon e exibe uma áudio descrição dos mesmos.
 
 ### Using Unity + Vuforia Engine, I created an application that displays models of some pokémon and displays an audio description of them.
 
+![Pokemon Appeared](gifs/gif2.gif)
+
 ### Para usar é necessário que o dispositivo Android possua o recurso de Giroscópio
 
 ### To use it is necessary that the Android device has the Gyroscope feature
+
+![Stopped Pokemon](gifs/gif1)
 
 ## Disclaimer
 
