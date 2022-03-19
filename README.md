@@ -13,11 +13,11 @@ Using Unity + Vuforia Engine, I created an application that displays models of s
 
 ![Pokemon Appeared](gifs/gif2.gif)
 
+![Stopped Pokemon](gifs/gif1)
+
 ### Para usar é necessário que o dispositivo Android possua o recurso de Giroscópio
 
 To use it is necessary that the Android device has the Gyroscope feature
-
-![Stopped Pokemon](gifs/gif1)
 
 ## Disclaimer
 
