@@ -1,13 +1,13 @@
 <h1 align="center">
     PokedexAR
 </h1>
-<p align="center"> :iphone: AR Pokemon Viewer using Unity + Vuforia Engine</p>
+<p align="center"> :iphone: Visualizador de Pokémon RA usando Unity + Vuforia Engine</p>
 
-https://img.shields.io/github/stars/ryan-leal/PokedexAR
+![Badge](https://img.shields.io/github/stars/ryan-leal/PokedexAR)
 
-https://img.shields.io/github/forks/ryan-leal/PokedexAR
+![Badge2](https://img.shields.io/github/forks/ryan-leal/PokedexAR)
 
-https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fryan-leal%2FPokedexAR
+![Badge3](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fryan-leal%2FPokedexAR)
 
 Tabela de conteúdos
 =================
@@ -21,7 +21,7 @@ Tabela de conteúdos
 <!--te-->
 
 <h4 align="center"> 
-   PokedexAR - Concluído
+  :heavy_check_mark: PokedexAR - Concluído :heavy_check_mark:
 </h4>
 
 <h1 align="center">
@@ -40,7 +40,7 @@ Para utilizar o aplicativo será necessário um dispositivo Android com sensor G
 
 ### Como Usar
 
-Baixe o arquivo apk do [PokedeAR](pokedex.apk) e instale em seu dispositivo Android, abra o app e direcione a câmera para os marcadores. É possível apertar nas pokebolas para fazer os modelos sairem da pokebola e apertar nos modelos para gerar uma descrição. Fiz um [Vídeo de apresentação](https://youtu.be/LMWr3IfcOzs) para a disciplina que pode ser utilizado como demonstração de funcionamento.
+Baixe o arquivo apk do [PokedexAR](pokedex.apk) e instale em seu dispositivo Android, abra o app e direcione a câmera para os marcadores. É possível apertar nas pokebolas para fazer os modelos sairem da pokebola e apertar nos modelos para gerar uma descrição. Fiz um [Vídeo de apresentação](https://youtu.be/LMWr3IfcOzs) para a disciplina que pode ser utilizado como demonstração de funcionamento.
 
 ### Tecnologias
 
