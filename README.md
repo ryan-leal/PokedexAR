@@ -5,7 +5,7 @@
 
 <div align="center">
     
-    [![Badge](https://img.shields.io/github/stars/ryan-leal/PokedexAR)] <space><space> [![Badge2](https://img.shields.io/github/forks/ryan-leal/PokedexAR)] <space><space> [![Badge3](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fryan-leal%2FPokedexAR)]
+    [![Badge](https://img.shields.io/github/stars/ryan-leal/PokedexAR)]<space><space>[![Badge2](https://img.shields.io/github/forks/ryan-leal/PokedexAR)]<space><space>[![Badge3](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fryan-leal%2FPokedexAR)]
 
 </div>
 
