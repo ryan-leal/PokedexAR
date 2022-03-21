@@ -4,9 +4,9 @@
 <p align="center"> :iphone: Visualizador de Pokémon RA usando Unity + Vuforia Engine</p>
 
 <div align="center">
-    
-    [![Badge](https://img.shields.io/github/stars/ryan-leal/PokedexAR)]<space><space>[![Badge2](https://img.shields.io/github/forks/ryan-leal/PokedexAR)]<space><space>[![Badge3](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fryan-leal%2FPokedexAR)]
-
+<a href="https://github.com/ryan-leal/PokedexAR/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ryan-leal/PokedexAR?style=for-the-badge"></a>
+<a href="https://github.com/ryan-leal/PokedexAR/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ryan-leal/PokedexAR?style=for-the-badge"></a>
+<a href="https://github.com/ryan-leal/PokedexAR/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ryan-leal/PokedexAR?style=for-the-badge"></a>
 </div>
 
 Tabela de conteúdos
